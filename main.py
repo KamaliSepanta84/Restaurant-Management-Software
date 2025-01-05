@@ -1,7 +1,7 @@
 from tkinter import * 
 from tkinter.font import * 
 import os 
-from Database.database import *
+from database import *
 
 #---------------------------------------------------------------- GUI
 window = Tk() 
