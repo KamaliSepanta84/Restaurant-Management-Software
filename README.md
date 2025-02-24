@@ -13,4 +13,9 @@ This is a personal project I developed to help restaurants manage orders and rec
 • Reduced manual work and improved restaurant efficiency by 30%. <br>
 • Designed a structured SQLite database, cutting data retrieval time by 25%. <br>
 • Optimized SQL queries in Python, speeding up searches and updates by 30%. <br>
-• Developed a Tkinter-based GUI, improving usability and staff productivity. <br>
+• Developed a Tkinter-based GUI, improving usability and staff productivity. <br> 
+
+## Technologies Used ⚙️
+Python: Core logic and database handling. <br>
+SQLite: Database for managing orders and menu items. <br>
+Tkinter: GUI for easy interaction with the system <br>
