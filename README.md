@@ -5,6 +5,6 @@ Welcome to my Restaurant Management Software project, a project designed to stre
 This is a personal project I developed to help restaurants manage orders and receipts more effectively. The software features a simple yet powerful interface to make order taking and receipt generation quicker and more accurate.
 ## Key Features
 • Order Management: Input and manage customer orders easily through the GUI. <br>
-• Menu Management: Organize and update menu items efficiently.
-• Receipt Generation: Automatically generate detailed receipts for each order.
-• Database Integration: A structured SQLite database stores all menu items, orders, and receipts for quick retrieval.
+• Menu Management: Organize and update menu items efficiently. <br>
+• Receipt Generation: Automatically generate detailed receipts for each order. <br>
+• Database Integration: A structured SQLite database stores all menu items, orders, and receipts for quick retrieval. <br>
