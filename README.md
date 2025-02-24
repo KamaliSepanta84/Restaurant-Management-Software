@@ -19,3 +19,8 @@ This is a personal project I developed to help restaurants manage orders and rec
 Python: Core logic and database handling. <br>
 SQLite: Database for managing orders and menu items. <br>
 Tkinter: GUI for easy interaction with the system <br>
+
+## My Future Plans 🌟
+This software is a step toward making restaurant operations more efficient. While it currently handles orders and receipts, I plan to expand it with additional features such as inventory management, employee scheduling, and reporting tools to further improve restaurant operations. <br>
+
+Thank you for checking out my project! I’m excited to continue improving it and explore more ways to make restaurant management easier. 🍴
